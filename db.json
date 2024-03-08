@@ -1,0 +1,19 @@
+{
+  "posts": [],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+
+  "cliente":
+  [{ 
+		"id":1,
+		"nome": "Ramon",
+		"CPF": "4480.002.358.55",
+		"Endereço": "São paulo",
+		"rua": " a paz,21",
+		"bairro": "jd portal I e II",
+		"CEP": "02327060"
+   }
+  ]
+}
